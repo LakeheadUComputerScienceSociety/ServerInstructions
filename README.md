@@ -22,11 +22,11 @@ Date: June 21st 2016
 
 The following is some documentation for the web server set up for use for the Lakehead University Computer Science Society. Some quick details to start off:
 
-Current Url: [lucss.ca](http://lucss.ca)
-Current IP: 159.203.58.212
-Hosted By: DigitalOcean Droplet
-Users with root access: Daniel Kivi
-Users with developer access: 
+ - Current Url: [lucss.ca](http://lucss.ca)
+ - Current IP: 159.203.58.212
+ - Hosted By: DigitalOcean Droplet
+ - Users with root access: Daniel Kivi
+ - Users with developer access: 
 
 The server is set up so anyone with developer access can read, write and execute from the /var/www folder. This is so people can pull in updates from several projects github repos and build/run those projects. The specific instructions for each project are specified in their own files in this repo. 
 
