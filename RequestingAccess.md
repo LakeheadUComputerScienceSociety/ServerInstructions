@@ -16,6 +16,7 @@ Connecting
 Once you have sent Danny your Public SSH Key and he has confirmed your account is set up. You can access the server in the following ways:
 
 **Windows**
+
 Use an SHH client and as the host enter `<your-username>@lucss.ca` and you will be using port 22. I recommend [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) to do this.
 
 **OSX and UNIX**
