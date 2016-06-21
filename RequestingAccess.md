@@ -1,7 +1,7 @@
 Requesting Access
 =================
 
-Right now access is manually granted. All you will need to do to request acces in to provide Danny Kivi with your SSH Public Key and he will add you as a developer on the server. 
+Right now access is manually granted. All you will need to do to request access in to provide Danny Kivi with your SSH Public Key and he will add you as a developer on the server. 
 
 If you aren't sure what SSH Keys are, click [here](/SSH/Primer.md) for a quick primer on how it works.
 
