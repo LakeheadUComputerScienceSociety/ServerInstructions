@@ -1,0 +1,12 @@
+# This file lives in /lib/systemd/system/auditor.service
+
+[Unit]
+Description=Start Audit App
+
+[Service]
+Type=forking
+Environment=HOME=/root
+ExecStart=/root/auditor
+
+[Install]
+WantedBy=multi-user.target
