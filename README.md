@@ -3,6 +3,7 @@ LUCSS Server Instructions
 
 ----------
 Author: Daniel Kivi 
+
 Date: June 21st 2016
 
 ----------
