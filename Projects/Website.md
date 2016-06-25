@@ -11,13 +11,13 @@ Project Documentation: LUCSS Website
 
 **Building Site**
 
-`sudo mkdocs build`
+`sudo mkdocs build --clean`
 This does *not* require you to be a sudoer or have any actual root access. The script is set to not require a password to run as root and the script and it's dependencies cannot be changed for security
 
 **Full Loop For Updating**
 
 `cd /var/www/LUCSSWebsite`
 `git pull origin master`
-`sudo mkdocs build`
+`sudo mkdocs build --clean`
 
 
